@@ -1,1 +1,1 @@
-# capstone
+this is a website that allows customers of a resturant to place and then confirm a reservation. it also allows the resturant to manage the reservations in anyway they need to such as serching for the number of reservations on a certain day, etc.
